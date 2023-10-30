@@ -1,4 +1,4 @@
-## Faaaala dev, Priscila Aqui! 👋
+## Faaaala Dev, Priscila Aqui! 👋
 
 Sejam todos Bem Vindos 🤩
 
