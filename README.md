@@ -1,16 +1,14 @@
-### Hi there 👋
+## Faaaala dev, Priscila Aqui! 👋
 
-<!--
-**PryMachado/pryMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sejam todos Bem Vindos 🤩
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando a linguagem Kotlin, Android Nativo no Android Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
