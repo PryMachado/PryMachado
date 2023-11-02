@@ -7,7 +7,7 @@ Sejam todos Bem Vindos 🤩
 
 MINHAS LINGUAGEM SAO:
 
-ANDROID E KOTLIN
+ KOTLIN
 
 
 
