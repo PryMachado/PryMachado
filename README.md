@@ -1,19 +1,23 @@
-## Faaaala Dev, Priscila Aqui! 👋
+# 👋 Olá! Eu sou a Priscila Machado 
 
-Sejam todos Bem Vindos 🤩
+🎯 Desenvolvedora Android em formação | Apaixonada por tecnologia, esportes e música  
 
-- 🌱 Atualmente estou estudando a linguagem Kotlin e Desenvolvimento Android Nativo no Android Studio.
-- 🔭Atualmente estou buscando minha primeira oportunidade como Desenvolvedor Android
+🚀 Atualmente estudando **Kotlin e Desenvolvimento Android**  
+💡 Interessada em desenvolvimento mobile e novas tecnologias  
 
-MINHAS LINGUAGEM SAO:
+## 🛠️ Tecnologias e Ferramentas:
 
- KOTLIN
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 Estatísticas do GitHub:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PryMachado&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PryMachado&layout=compact&theme=radical)
 
+## 📫 Conecte-se comigo:
 
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-machadoo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prizoompiquiat/)
